@@ -1,0 +1,23 @@
+.teste{
+    display:inline-block;
+    margin: 15vh;
+    font-weight: normal;
+    font-size: 24px;
+    color: black;
+    border-radius: 8px;
+    background-color: #ebc5ea;
+}
+.teste .img {
+    max-width: 300px; 
+    max-height: 300px; 
+    width: auto; 
+    height: auto; 
+    display: flex;
+    padding: 10px;
+    
+
+
+    /* background: no-repeat center;
+    background-size: cover; */
+}
+
